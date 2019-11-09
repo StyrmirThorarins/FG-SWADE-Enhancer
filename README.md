@@ -85,9 +85,7 @@ Secondary
 - Save success or fail graphics on target on combat map. Button to clear.
 
 ## Things to patch
-- Horizontal health bar, resizing and positioning is not working on token resize
-- Create new larger graphics large health dot and health bar. Are a bit blurred in FGU.
-- Health color is not delivering to horizontal health bar or larger health dots.
+
 
 ## Releases
 v0.1.0 (November, 9th, 2019)  
